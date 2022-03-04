@@ -1,3 +1,3 @@
 # git_test
-My first GItHub repo!
+My first GitHub repo!
 Hello world!
